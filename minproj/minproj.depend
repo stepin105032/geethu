@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1601868107 source:c:\users\training\documents\minproj\blood_test.cc
+	"Donors.h"
+	"Bloodgrp.h"
+	"Blooddb.h"
+	<gtest/gtest.h>
+
+1601868102 c:\users\training\documents\minproj\donors.h
+	<string>
+	<iostream>
+
+1601868106 c:\users\training\documents\minproj\bloodgrp.h
+	<iostream>
+	"Donors.h"
+
+1601888824 c:\users\training\documents\minproj\blooddb.h
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<iterator>
+
+1601888947 source:c:\users\training\documents\minproj\blooddb.cc
+	<iostream>
+	"blooddb.h"
+	"Donors.h"
+	"Bloodgrp.h"
+	<list>
+	<bits/stdc++.h>
+
+1601868109 source:c:\users\training\documents\minproj\bloodgrp.cc
+	<iostream>
+	"Bloodgrp.h"
+	"Donors.h"
+
+1601868104 source:c:\users\training\documents\minproj\donors.cc
+	<string.h>
+	<iostream>
+	"Donors.h"
+
+1601889039 source:c:\users\training\documents\minproj\main.cpp
+	<iostream>
+	"blooddb.h"
+
